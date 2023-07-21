@@ -1,0 +1,1 @@
+# FPGA-implementation-of-Squaring-Architecture-using-Vedic-Sutras
